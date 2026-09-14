@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Print structured python output."""
+
 pi = 3.14159
 is_valid = 5 > 2
 
